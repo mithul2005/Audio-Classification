@@ -6,7 +6,6 @@ Pipeline for prototyping audio classification algorithms with TF 2.3
 
 <!-- TOC -->
 
-- 
 - [Environment](#environment)
 - [Jupyter Notebooks](#jupyter-notebooks)
 - [Audio Preprocessing](#audio-preprocessing)
@@ -77,4 +76,5 @@ For computation of audio transforms from time to frequency domain on the fly
 
 https://github.com/keunwoochoi/kapre  
 https://arxiv.org/pdf/1706.05781.pdf
+
 
